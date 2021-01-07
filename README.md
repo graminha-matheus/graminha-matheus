@@ -6,7 +6,7 @@
 - 🌱 Currently learning React!
 - 📫 How to reach me: <br>
      Instagram: @mgmoreli <br>
-     Facebook: Matheus Graminha
+     Facebook: Matheus Graminha <br>
      E-mail: matheus.g.moreli@gmail.com
      
 ### Happy coding! 💻
