@@ -7,6 +7,7 @@
 - 📫 How to reach me: <br>
      Instagram: @mgmoreli <br>
      Facebook: Matheus Graminha
+     E-mail: matheus.g.moreli@gmail.com
      
 ### Happy coding! 💻
 
