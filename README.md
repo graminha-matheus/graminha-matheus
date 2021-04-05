@@ -2,13 +2,13 @@
 
 ### Hello! I am Matheus Graminha.
 - 🔭 Working on BCR CX as a frontend developer; 
+- 🛡 Currently studying Cybersecurity. All my notes are documented on the "MyOwnCheatSheet" repository;
 - 📫 How to reach me: <br>
-     Instagram: @mgmoreli <br>
-     Facebook: Matheus Graminha <br>
+     WhatsApp: 11 94744-2929
+     LinkedIn: https://bit.ly/3dy1HRc
      E-mail: matheus.g.moreli@gmail.com
+             matheus.g.moreli@protonmail.com
      
-     
-     ---
      
 
 
